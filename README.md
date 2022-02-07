@@ -22,3 +22,6 @@ Project consists of four technical analysis deliverables:
 PostgreSQL, pgAdmin, wikipedia-movies.json, ratings.csv, movies_metadat.csv, Python 3.7.10 , Jupyter Notebook
 
 
+<img width="324" alt="movies_query" src="https://user-images.githubusercontent.com/90229438/152743920-ba0c94f3-97f6-4847-a8e2-e526c5696e52.png">
+<img width="319" alt="ratings_query" src="https://user-images.githubusercontent.com/90229438/152743946-cf460423-67e5-4937-9783-30d67037fa18.png">
+![Capture](https://user-images.githubusercontent.com/90229438/152744396-cdb4ca57-6f77-4f96-b408-f6243ca56558.PNG)
